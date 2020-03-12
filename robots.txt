@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aoyeecauk.sunaansuna.com/sitemap.xml
